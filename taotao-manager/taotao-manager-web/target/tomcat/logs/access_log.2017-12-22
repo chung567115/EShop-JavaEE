@@ -1,0 +1,14 @@
+0:0:0:0:0:0:0:1 - - [22/Dec/2017:17:21:09 +0800] "GET / HTTP/1.1" 200 2477 http-bio-8080-exec-1 671
+0:0:0:0:0:0:0:1 - - [22/Dec/2017:17:21:09 +0800] "GET /js/jquery-easyui-1.4.1/themes/bootstrap/easyui.css HTTP/1.1" 200 52200 http-bio-8080-exec-2 22
+0:0:0:0:0:0:0:1 - - [22/Dec/2017:17:21:09 +0800] "GET /js/jquery-easyui-1.4.1/themes/icon.css HTTP/1.1" 200 2430 http-bio-8080-exec-3 13
+0:0:0:0:0:0:0:1 - - [22/Dec/2017:17:21:09 +0800] "GET /css/taotao.css HTTP/1.1" 200 421 http-bio-8080-exec-4 17
+0:0:0:0:0:0:0:1 - - [22/Dec/2017:17:21:09 +0800] "GET /js/jquery-easyui-1.4.1/jquery.easyui.min.js HTTP/1.1" 200 353674 http-bio-8080-exec-6 23
+0:0:0:0:0:0:0:1 - - [22/Dec/2017:17:21:09 +0800] "GET /js/jquery-easyui-1.4.1/locale/easyui-lang-zh_CN.js HTTP/1.1" 200 2487 http-bio-8080-exec-7 29
+0:0:0:0:0:0:0:1 - - [22/Dec/2017:17:21:09 +0800] "GET /js/jquery-easyui-1.4.1/jquery.min.js HTTP/1.1" 200 95786 http-bio-8080-exec-5 29
+0:0:0:0:0:0:0:1 - - [22/Dec/2017:17:21:09 +0800] "GET /js/common.js HTTP/1.1" 200 7795 http-bio-8080-exec-8 5
+0:0:0:0:0:0:0:1 - - [22/Dec/2017:17:21:09 +0800] "GET /js/jquery-easyui-1.4.1/themes/bootstrap/images/blank.gif HTTP/1.1" 200 43 http-bio-8080-exec-5 2
+0:0:0:0:0:0:0:1 - - [22/Dec/2017:17:21:09 +0800] "GET /js/jquery-easyui-1.4.1/themes/bootstrap/images/panel_tools.png HTTP/1.1" 200 194 http-bio-8080-exec-8 2
+0:0:0:0:0:0:0:1 - - [22/Dec/2017:17:21:09 +0800] "GET /js/jquery-easyui-1.4.1/themes/bootstrap/images/layout_arrows.png HTTP/1.1" 200 319 http-bio-8080-exec-5 3
+0:0:0:0:0:0:0:1 - - [22/Dec/2017:17:21:09 +0800] "GET /js/jquery-easyui-1.4.1/themes/bootstrap/images/tree_icons.png HTTP/1.1" 200 3115 http-bio-8080-exec-6 20
+0:0:0:0:0:0:0:1 - - [22/Dec/2017:17:21:09 +0800] "GET /js/jquery-easyui-1.4.1/themes/bootstrap/images/tabs_icons.png HTTP/1.1" 200 150 http-bio-8080-exec-6 3
+0:0:0:0:0:0:0:1 - - [22/Dec/2017:17:21:09 +0800] "GET /favicon.ico HTTP/1.1" 404 997 http-bio-8080-exec-6 21
